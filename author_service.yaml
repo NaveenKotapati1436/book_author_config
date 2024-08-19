@@ -33,5 +33,4 @@ management:
     web:
       exposure:
         include: 'health,info,openapi,swagger-ui' # http://localhost:8100/actuator/
-  server:
-    port: 8101
+
